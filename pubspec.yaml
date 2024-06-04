@@ -1,0 +1,22 @@
+name: dsh
+description: Use shell scripts for automation in your favorite Dart, inspired by [google/zx]  
+version: 1.0.4
+repository: https://github.com/moluopro
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+keywords:
+  - shell
+  - scripting
+  - command-line
+  - automation
+  - dart
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
